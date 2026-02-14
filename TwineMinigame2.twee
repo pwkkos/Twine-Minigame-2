@@ -7,11 +7,225 @@ Twine Minigame 2
   "ifid": "d1d488d1-e008-43d0-8226-d7aa8a51892b",
   "format": "SugarCube",
   "format-version": "2.37.3",
+  "start": "Start",
   "zoom": 0.6
 }
 
 
-:: Start {"position":"450,150","size":"100,100"}
-!put your title here
+:: 42 {"position":"625,750","size":"100,100"}
+!CORRECT!
+Braun claps his hands,
+"Bravo Mr. Soleum! You got that one right, just two more and you'll be walking out here $1,000,000 richer!
 
-Start writing your story here :)
+//Phew!// You were able to get past the first question, hopefully the next two are easy.
+
+You move on to the [[second question]]
+
+<!--I don't even know how many dots are on a single die, I would've died immediately if I was on this show.-->
+
+
+
+:: 48 {"position":"450,750","size":"100,100"}
+!INCORRECT.
+Braun looks at you in disappointment,
+"Not quite...good try though! Mr. Soleum, you are eliminated."
+
+Braun lifts up his hand and with a quick snap, your entire body is set ablaze and you slowly become nothing but ashes.
+
+You have died.
+
+Lets try that [[again->you]]...
+
+
+:: 54 {"position":"250,750","size":"100,100"}
+!INCORRECT.
+Braun looks at you in disappointment,
+"...Well that was quick! Mr. Soleum, you are eliminated."
+
+Braun lifts up his hand and with a quick snap, your entire body is set ablaze and you become nothing but ashes.
+
+You have died.
+
+Lets try that [[again->you]]...
+
+
+:: Attempt {"position":"875,1475","size":"100,100"}
+!Bye-bye!
+You try to answer,
+"Umm...after death, you go to heaven?"
+
+Braun laughs, 
+"Haha! Not exactly! But dont worry, you'll find out the answer right now!"
+
+Braun snaps and you are set on fire.
+
+You have died.
+
+You should probably try a different [[method->third question]]...
+
+
+:: Intestines {"position":"425,1075","size":"100,100"}
+!INCORRECT.
+Braun chuckles,
+"Ahahaha! Thats too bad...Mr. Soleum, you are wrong."
+
+Braun points toward your stomach and with a quick snap, your intestines are set on fire. The flames slowly engulf you from the inside out until you are eventually left as nothing but ash.
+
+You have died.
+
+How about we do that one [[again->second question]]...
+
+
+:: Liver {"position":"650,1075","size":"100,100"}
+!INCORRECT.
+Braun chuckles,
+"Ahahaha! Thats too bad...Mr. Soleum, you are wrong."
+
+Braun points toward your upper abdomen and with a quick snap, your liver is set on fire. The flames slowly engulf you from the inside out until you are eventually left as nothing but ash.
+
+You have died.
+
+How about we do that one [[again->second question]]...
+
+
+:: Skin {"position":"850,1075","size":"100,100"}
+!CORRECT!
+Braun gives you a thumbs-up,
+"Wow! You're doing great Mr. Soleum. You just have one more question to answer before you become a millionare!"
+
+"Are you ready for your final question Mr. Soleum?"
+
+You give Braun a nod and move on to the [[third question]]
+
+<!--I honestly had no idea that skin was considered an organ before finding this question..-->
+
+
+:: Start {"position":"475,325","size":"100,100"}
+!Welcome to Braun's Tuesday Quiz Show!
+In desperate need of money, you find yourself drawn to peculiar advertisement  featured on the daily newspaper...
+
+"Want to be a winner? Its simple!
+Enter //Braun's Tuesday Quiz Show//,
+answer three questions correctly,
+and win a big prize worth $1,000,000!
+Call this number now to sign up!"
+
+You call the number. 
+
+The next morning, you wake up in what seems to be a..TV show? Confused, you begin to question how you got here until something catches your eye...
+
+A giant sign flashing the words, //Braun's Tuesday Quiz Show//
+
+You realize that this is the quiz show you signed up for last night, but you soon find out that this is no ordinary show.
+
+You take your place in your designated [[lectern...]]
+
+<!--This minigame is based off one of my favorite webnovels, "Got dropped in a Ghost Story But Still Gotta Work"!! The characters, setting, and other elements that I used are all from the novel, however, the narrative I came up with does not follow the actual events that happen in the story.-->
+
+
+:: attack {"position":"625,1450","size":"100,100"}
+!Take this!
+You clench your fist and throw it straight into Braun's stomach, but before it can make contact...he grabs your hand.
+
+"Mr. Soleum, we do not condone violence on this show. You are disqualified."
+
+//Huh?? Dont condone violence? But you literally kill people if they don't answ--!//
+Before you could finish your thought, your body becomes engulfed in flames. 
+
+You have died.
+
+You should probably try a different [[method->third question]]...
+
+
+:: befriend {"position":"1100,1450","size":"100,100"}
+!Friendship wins!
+You come up with a plan,
+"Hmm..I think I change my mind about that million dollars. Braun, how about we become friends? I like you, we should make a talk show together!"
+
+//This should work, right? Friendship is magic!"//
+
+Braun stares at you.
+"...Oh my! I've never been asked this question before..."
+He seems to be moved to tears, 
+"Yes! I'll accept gladly accept your offer! Oh Mr. Soleum I never knew when this day would ever come..!"
+
+Braun hands you a contract.
+
+Before you know it, you are working together with Braun as the co-host of, 
+//Braun's Late Night Talk Show//!
+
+You may have signed your life away to a strange TV man, but at least you're not dead..!
+!THE END
+
+
+:: lectern... {"position":"475,450","size":"100,100"}
+!The show begins
+As all the contestants are busy taking their places, a massive figure appears on stage.
+
+It's the show host, ''Braun'', but something is seriously wrong...hes not human.
+He seems to be over 8 feet tall and instead of a head theres a...TV? However, you are interrupeted by the charming voice of the creepy host.
+
+He begins reciting the rules of the game, repeating the same lines from the ad you saw, but something is different, he mentions something new...
+"--Now here comes the catch! If you answer a question incorrectly, you will be ''incinerated''!"
+
+//Incinerated?!// 
+
+You didn't sign up for //this//! But its too late to back out now because...
+
+"Contestant #130666, you're up first!"
+
+That's [[you]].
+
+
+
+
+:: second question {"position":"650,900","size":"100,100"}
+!Your second question
+Braun smiles,
+"Time for your second question! Mr. Soleum, __what is the heaviest organ from the human body__?"
+
+//What a strange question...but its whatever, this should be a piece of cake!//
+
+You answer...
+- The [[Liver]]
+- The [[Intestines]]
+- The [[Skin]]
+
+
+
+:: third question {"position":"850,1300","size":"100,100"}
+!Your third question
+"Awesome! Now, for your final question Mr. Soleum...__what happens after death?__
+
+//What..! How am I supposed to know that?!//
+An impossible question, but if you fail to answer correctly, you die...
+
+You try to think of a way to avoid the situation...which action will you take in order to escape your inevitable death?
+
+You...
+- [[Attempt]] the question anyway
+- Try to [[befriend]] Braun
+- Use your strength to [[attack]] Braun
+
+
+
+:: you {"position":"475,575","size":"100,100"}
+!Your first question
+Braun looks at you and smiles,
+"Before we begin...contestant #13066, would you mind telling our lovely audience your name?"
+
+Your lips tremble as you struggle to speak,
+"''M-my name is Kim Soleum...''"
+
+"Ah! What a wonderful name. Nice to meet you, Mr. Soleum, its now time for you to begin answering your questions! Are you ready?"
+
+You quickly nod.
+
+"Great! Mr. Soleum, your first question is...__how many dots does a pair of dice have__?"
+
+//This question isn't as bad as I expected, maybe winning this million won't be too difficult.//
+
+You wipe the sweat off your forehead and begin to think, what will your answer be?
+- [[48]] dots
+- [[42]] dots
+- [[54]] dots
